@@ -1,0 +1,44 @@
+{
+  "IncomingJobs": [
+    {
+      "ExtraMargin": true,
+      "Items": [
+        {
+          "Name": "Envelopes",
+          "Price": 520.00,
+          "Exempt": false
+        },
+        {
+          "Name": "Letterhead",
+          "Price": 1983.37,
+          "Exempt": true
+        }
+      ]
+    },
+    {
+      "ExtraMargin": false,
+      "Items": [
+        {
+          "Name": "T-shirts",
+          "Price": 294.04,
+          "Exempt": false
+        }
+      ]
+    },
+    {
+      "ExtraMargin": true,
+      "Items": [
+        {
+          "Name": "Frisbees",
+          "Price": 19385.38,
+          "Exempt": true
+        },
+        {
+          "Name": "Yo-yos",
+          "Price": 1829,
+          "Exempt": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "ResponseJobs": [
+    {
+      "Total": 2940.3,
+      "Items": [
+        {
+          "Name": "Envelopes",
+          "Price": 556.4
+        },
+        {
+          "Name": "Letterhead",
+          "Price": 1983.37
+        }
+      ]
+    },
+    {
+      "Total": 346.96,
+      "Items": [
+        {
+          "Name": "T-shirts",
+          "Price": 314.62
+        }
+      ]
+    },
+    {
+      "Total": 24608.68,
+      "Items": [
+        {
+          "Name": "Frisbees",
+          "Price": 19385.38
+        },
+        {
+          "Name": "Yo-yos",
+          "Price": 1829
+        }
+      ]
+    }
+  ]
+}
